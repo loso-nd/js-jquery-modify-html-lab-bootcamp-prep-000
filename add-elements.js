@@ -1,3 +1,3 @@
 var elementOne = document.createElement('div');
 elementOne.innerHTML = "Testing";
-"Testing"
+elementOne.id = "image";
